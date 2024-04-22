@@ -13,7 +13,9 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+npm create vite@latest vite-app
 npm install
+npm install bootstrap
 ```
 
 ### Compile and Hot-Reload for Development
