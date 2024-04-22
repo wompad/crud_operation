@@ -16,6 +16,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm create vite@latest vite-app
 npm install
 npm install bootstrap
+npm install axios
 ```
 
 ### Compile and Hot-Reload for Development
